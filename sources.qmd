@@ -1,0 +1,6 @@
+---
+title: "Sources"
+format: html
+---
+
+I got the data from Kaggle. To clean the data and get what I wanted I found out how many streams each artist had. I did this by adding the amount of streams from each song together sorted by the artist. I didn't remove any observations.

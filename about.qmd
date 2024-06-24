@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+I am Michael Massaria, I am 14 years old and this is my github: https://github.com/mmassaria and this is my email: mamassaria09@gmail.com
+
+This project is about Spotify artists and how many streams they have. The github repo for this project is: https://github.com/mmassaria/spotify-top-songs 
+
+This project was created as a part of Kane's Data Science Bootcamp. https://bootcamp.davidkane.info/ 
